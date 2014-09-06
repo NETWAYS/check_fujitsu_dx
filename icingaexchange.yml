@@ -1,9 +1,9 @@
-name: 
+name: check_fujitsu_dx
 description: "file:///README.md"
 url: "https://www.netways.org/projects/plugins"
 tags: ~
-vendor: Netways
-target: Temperature
+vendor: Fujitsu,NETWAYS
+target: Storage
 type: Plugin
 license: gplv2
 releases: 
@@ -15,5 +15,5 @@ releases:
         name: check_fujitsu_dx.pl
         url: "file:///check_fujitsu_dx.pl"
         description: none
-        checksum: 
+        checksum: cbf2befc2cd5be260e3c43fb2b6d82d5
 
